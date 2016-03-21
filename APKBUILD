@@ -2,7 +2,7 @@
 # Maintainer: Sasha Gerrand <alpine-pkg-makeself@sgerrand.com>
 pkgname=makeself
 pkgver=2.2.0
-pkgrel="1"
+pkgrel=0
 pkgdesc="Make self-extractable archives on Unix"
 url="http://www.megastep.org/makeself"
 arch="noarch"
